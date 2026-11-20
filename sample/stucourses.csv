@@ -1,0 +1,47 @@
+sturegno,coursecode,coursename,coursecredit,paper_full_marks,paper_pass_marks,coursegrade,coursegradept,overall_total_marks,overall_marks,coursesem,result,coursenameorig
+SAMPLE001,CS400 (8 credits),MSc Project,8,,,A+,9,,88,4,Pass,MSc Project
+SAMPLE001,noc26-cs66,Deep Learning,3,,,A+,9,,87,4,Pass,Deep Learning
+SAMPLE001,noc26-ge43,Research Methodology,2,,,A,8,,71,4,Pass,Research Methodology
+SAMPLE002,CS400 (8 credits),MSc Project,8,,,A+,9,,86,4,Pass,MSc Project
+SAMPLE002,CS410 (3 credits),Graph Machine Learning,3,,,A+,9,,88,4,Pass,Graph Machine Learning
+SAMPLE002,noc26-cs61,Affective Computing,3,,,O,10,,91,4,Pass,Affective Computing
+SAMPLE001,CS213,Computational Geometry,4,,,B+,7,,64,3,Pass,Computational Geometry
+SAMPLE001,CS250,Database Management System,4,,,B+,7,,65,3,Pass,Database Management System
+SAMPLE001,CS300,Summer Project,4,,,B+,7,,60,3,Pass,Summer Project
+SAMPLE001,CS312,Approximation and Online algorithms,4,,,A+,9,,85,3,Pass,Approximation and Online algorithms
+SAMPLE001,DA207,Mining of Massive Datasets,4,,,B,6,,56,3,Pass,Mining of Massive Datasets
+SAMPLE001,DA347,Deep Learning for Cybersecurity,4,,,B+,7,,66,3,Pass,Deep Learning for Cybersecurity
+SAMPLE002,CS213,Computational Geometry,4,,,A,8,,70,3,Pass,Computational Geometry
+SAMPLE002,CS300,Summer Project,4,,,O,10,,94,3,Pass,Summer Project
+SAMPLE002,CS312,Approximation and Online algorithms,4,,,A,8,,79,3,Pass,Approximation and Online algorithms
+SAMPLE002,DA207,Mining of Massive Datasets,4,,,A+,9,,82,3,Pass,Mining of Massive Datasets
+SAMPLE002,DA346,Deep Reinforcement Learning,4,,,A+,9,,80,3,Pass,Deep Reinforcement Learning
+SAMPLE002,DA347,Deep Learning for Cybersecurity,4,,,A+,9,,80,3,Pass,Deep Learning for Cybersecurity
+SAMPLE001,CS231,"Emerging Technologies (Blockchain, LLM,Android, IoT) ",4,,,A,8,,72,2,Pass,"Blockchain, LLM, and IoT"
+SAMPLE001,CS253,Topics in Spectral Graph Theory and Algorithms,4,,,B,6,,52,2,Pass,Topics in Spectral Graph Theory and Algorithms
+SAMPLE001,CS303,Computational Complexity,4,,,B,6,,54,2,Pass,Computational Complexity
+SAMPLE001,CS313,Advanced Algorithms,4,,,O,10,,96,2,Pass,Advanced Algorithms
+SAMPLE001,CS342,Computer Vision,4,,,B+,7,,67,2,Pass,Computer Vision
+SAMPLE001,S003*,Communicative English,2,,,B+,7,,66,2,Pass,Communicative English
+SAMPLE001,S007*,Introduction to Indian Knowledge System,2,,,A,8,,74,2,Pass,Introduction to Indian Knowledge System
+SAMPLE002,CS231,"Emerging Technologies (Blockchain, LLM,Android, IoT) ",4,,,A,8,,78,2,Pass,"Blockchain, LLM, and IoT"
+SAMPLE002,CS253,Topics in Spectral Graph Theory and Algorithms,4,,,C,5,,43,2,Pass,Topics in Spectral Graph Theory and Algorithms
+SAMPLE002,CS303,Computational Complexity,4,,,B,6,,50,2,Pass,Computational Complexity
+SAMPLE002,CS313,Advanced Algorithms,4,,,A+,9,,86,2,Pass,Advanced Algorithms
+SAMPLE002,CS342,Computer Vision,4,,,A+,9,,82,2,Pass,Computer Vision
+SAMPLE002,S003*,Communicative English,2,,,B,6,,57,2,Pass,Communicative English
+SAMPLE002,S007*,Introduction to Indian Knowledge System,2,,,A,8,,70,2,Pass,Introduction to Indian Knowledge System
+SAMPLE001,CS209,Automata Theory,4,,,B+,7,,65,1,Pass,Theory of computation
+SAMPLE001,CS230,Machine Learning,4,,,B+,7,,68,1,Pass,Machine Learning
+SAMPLE001,CS241,Design and Analysis of Algorithms,4,,,O,10,,93,1,Pass,Design and Analysis of Algorithms
+SAMPLE001,DA102,Statistics I,4,,,C,5,,49,1,Pass,Statistics I
+SAMPLE001,DA104,Probability and Stochastic processes,4,,,B,6,,52,1,Pass,Probability and Stochastic processes
+SAMPLE001,DA109,Linear Algebra and Matrix Computation,4,,,C,5,,40,1,Pass,Linear Algebra and Matrix Computation
+SAMPLE001,S006*,Universal Human Values,2,100,35,O,10,,92,1,Pass,Universal Human Values
+SAMPLE002,CS209,Automata Theory,4,,,B+,7,,64,1,Pass,Theory of computation
+SAMPLE002,CS230,Machine Learning,4,,,A+,9,,82,1,Pass,Machine Learning
+SAMPLE002,CS241,Design and Analysis of Algorithms,4,,,A+,9,,87,1,Pass,Design and Analysis of Algorithms
+SAMPLE002,DA102,Statistics I,4,,,C,5,,40,1,Pass,Statistics I
+SAMPLE002,DA104,Probability and Stochastic processes,4,,,C,5,,43,1,Pass,Probability and Stochastic processes
+SAMPLE002,DA109,Linear Algebra and Matrix Computation,4,,,C,5,,43,1,Pass,Linear Algebra and Matrix Computation
+SAMPLE002,S006*,Universal Human Values,2,100,35,A+,9,,80,1,Pass,Universal Human Values

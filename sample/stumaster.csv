@@ -1,0 +1,3 @@
+sturegno,stuname,studep,studep_alt,stuyearofjoin,studegree,stuprogram,stualtschool,stucampus,stumother,stufather,gender,abcid,studob,project_title
+SAMPLE001,Sample Student One,Computer Science,Computer Science,2024,Master of Science,MSc in Computer Science,Sample Sciences,Campus A,Mother One,Father One,M,100000000001,01/01/2002,Geospatial Intelligence and Adaptive Behavioural Simulation
+SAMPLE002,Sample Student Two,Computer Science,Computer Science,2024,Master of Science,MSc in Computer Science,Sample Sciences,Campus A,Mother Two,Father Two,M,100000000002,15/06/2002,Robust Multi-Agent Coordination under Stochastic Agent Dropout
