@@ -11,7 +11,7 @@ It is a single PHP page. No database, no framework, no install step beyond PHP.
 ## Run it
 
 ```bash
-git clone <this-repo> nad-converter
+git clone https://github.com/shirshak007/nad-converter.git nad-converter
 cd nad-converter
 php -S localhost:8000
 ```
