@@ -1,6 +1,6 @@
 # NAD CSV Converter
 
-Converts student records exports (student master, grades, courses) into the NAD CSV format.
+Converts student records exports (student master, grades, courses) into the Digilocker NAD CSV format.
 It is a single PHP page. No database, no framework, no install step beyond PHP.
 
 ## Requirements
